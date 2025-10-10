@@ -44,6 +44,22 @@ module.exports = {
           "--absent": "#AD2946"
         }
       },
+      {
+        greenday: {
+          ...require("daisyui/src/theming/themes").autumn,
+          primary: "#e36900",
+          secondary: "#ffe15c",
+          "base-100": "#00a305",
+          "base-200": "#035400",
+          "base-content": "#ffffff",
+          "accent": "#3893E8",
+          "--rounded-card": "2rem !important",
+          "--rounded-btn": "2rem !important",
+          "--present": "#004cff",
+          "--tardy": "#ffd900",
+          "--absent": "#000"
+        }
+      },
 
       {
         nocturne: {
