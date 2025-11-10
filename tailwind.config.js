@@ -105,7 +105,6 @@ module.exports = {
           "--present": "#3EB2FF",
           "--tardy": "#ffbf00",
           "--absent": "#ff0000",
-          "--rounded-card": "2rem !important",
           "--rounded-btn": "2rem !important",
         }
       },
